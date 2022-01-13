@@ -136,5 +136,74 @@ padding: 0px 6px;
 #shopbtn{
     color: whitesmoke;
     text-decoration: none;
+    
+}
+ /* -------------------------work-------------------------------------------- */
+.work div{ 
+   display: flex;
+   
+    
+}
+ #h{
+    display: flex;
+    justify-content: center;
+}
+/* -----------------img----------------------------------- */
+.gift{
+    margin: 5rem 6rem; ;
 
+}
+.hand{
+    margin: 5rem 5rem ;
+    padding: 0px 4px;
+}
+.packed{
+    margin: 4rem 4rem ;
+    padding: 0px 4px;
+}
+/* ------------------------------contain------------------------------------------- */
+.p{
+    display: flex;
+}
+#g{
+display: flex;
+flex-direction: inherit;
+    margin: -1rem 7rem;
+}
+#h{
+    display: flex;
+    margin: 0rem 5rem;
+    padding: 0rem 0rem;
+    flex-direction: initial;
+}
+#ps{
+    display: flex;
+    margin: -1rem 4rem;
+    padding: 0rem 4rem;
+    font-size: revert;
+}
+
+.pa{
+    display: flex;
+}
+#o{
+    display: flex;
+    flex: revert; 
+    margin: 2rem 2rem;
+    padding: 0rem 4rem;
+    font-size: 20px;
+}
+#a{
+    display: flex;
+    flex: revert;
+    margin: 25px 0px;
+    padding: -1rem 2rem;
+    font-size: 20px;
+}
+#w{
+    display: flex;
+    flex: revert;
+    margin: 1rem 11rem;
+    padding: 0rem 4rem;
+    font-size: 20px;
 }
