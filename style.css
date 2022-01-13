@@ -103,3 +103,38 @@ padding: 0px 6px;
     width: 0px;
     transition: .5s;
 } 
+.perfect{
+    
+   background-color: #F9CAC2;
+   display: flex;
+   flex-direction: row-reverse;
+ 
+ 
+}
+.perfect img {
+    height: 50%;
+    width: 50%;
+    
+ 
+}
+
+.gif{
+    margin: 2px 10px;
+    font-size: 3rem;
+
+}
+#daazle{
+    font-size: 23px;
+}
+.perfect button{
+    color: whitesmoke;
+    background-color: black;
+   border: 2px solid white;
+   padding: 6px 30px;
+   text-decoration: none;
+}
+#shopbtn{
+    color: whitesmoke;
+    text-decoration: none;
+
+}
