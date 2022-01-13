@@ -318,6 +318,11 @@ padding: 0px 162px;
     justify-content: center;
     font-size: 30PX;
 }
+.customer h3{
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+}
 .customer img{
     
    padding: 0px 590px;
@@ -330,3 +335,75 @@ padding: 0px 162px;
     display: flex;
     justify-content: center;
 }
+.customer-count{
+      
+    background: #F9CAC2;
+    
+    
+
+  }
+   .customer-count li{
+      margin: 0px 09px ;
+      padding: 0px  6px;
+    
+  } 
+  .customer-count h1{
+      color: aliceblue;
+      font-size: 3rem;
+      padding: 0px 36px;
+  margin: -1px 950px;
+      
+     }
+     .customer-count h2{
+         margin-top: -10px;
+         font-size: 3rem;
+         float: right;
+     }
+     .customer-count line{
+         color: white;
+     }
+     .customer-count-para{
+         display: flex;
+     }
+  #g{
+   padding: 0px  60px ;
+   margin: 30px 50px;
+   
+ }
+ #f{
+  padding: 0px  60px ;
+  margin: 30px 50px;
+  list-style: none;
+ }
+ #h{
+  padding: 0px  60px ;
+  margin: 30px 50px;
+ 
+ }
+ #a{
+  padding: 0px  60px ;
+  margin: 30px 50px;
+ }
+ #b{
+  padding: 0px  60px ;
+  margin: 30px 50px;
+  list-style: none;
+ }
+ #c{
+  padding: 0px  60px ;
+  margin: 30px 50px;
+ list-style: none;
+ } 
+ .img{
+    display: flex;
+    justify-content: center;
+ /* flex-direction: row-reverse;
+     padding: 0px 50px; */
+ }
+ .footer{
+     display: flex;
+     justify-content: center;
+ }
+ #count{
+     padding: 20px 0px;
+ }
